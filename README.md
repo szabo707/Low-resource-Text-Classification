@@ -5,7 +5,7 @@ The aim of the thesis is to evaluate Czech text classification tasks in the low-
 
 The following source codes are attached to the master thesis Low-resource Text Classification (2021), A.Szabó, MFF UK. The scripts are divided according to their use on a specific dataset.
 
-##Facebook Dataset
+## Facebook Dataset
 
 * **sentiment\_analysis\_model.py** - Script for training the model.
 
@@ -19,7 +19,7 @@ The following source codes are attached to the master thesis Low-resource Text C
 
 * **evaluate\_predict\_file.py** - Calculation of the evaluation from the obtained predict file.
 
-##Czech Text Document Corpus
+## Czech Text Document Corpus
 
 * **cz\_corpus\_model.py** - Script for training the model.
 

@@ -1,0 +1,138 @@
+{"categories":[
+  {"10700": "Bezpečnostní a ochranné vybavení a údržba"}, 
+  {"10701": "Kamerové systémy"}, 
+  {"10702": "Hasičské vybavení, požární ochrana"}, 
+  {"10703": "Zbraně"},
+  {"10704": "Ostraha objektů"},
+
+  {"12000": "Dary a dotace"},
+
+  {"10200": "Doprava a poštovní služby"},
+  {"10203": "Hromadná autobusová a vlaková doprava"},
+  {"10213": "Letecká přeprava"},
+  {"10202": "Nákladní nebo speciální vozidla (army, těžká technika, příslušenství"},
+  {"10201": "Osobní vozidla"},
+  {"10212": "Poštovní a kurýrní služby"},
+  {"10206": "Sanitní a zdravotnická vozidla"},
+  {"10210": "Servis a oprava vozidel včetně náhradních dílů a příslušenství"},
+  {"10205": "Vozidla silniční údržby a příslušenství"},
+  {"10208": "Železniční a tramvajové lokomotivy a vozidla"},
+
+  {"10900": "Energie"},
+  {"10902": "Elektricka energie"},
+  {"10903": "Jiná energie"},
+  {"10901": "Paliva a oleje"},
+  {"10904": "Veřejné služby pro energie"},
+  {"10905": "Voda"},
+
+  {"11400": "Finance"},
+  {"11405": "Bankovní služby, operace a poplatky"},
+  {"11403": "Podnikatelské a manažerské poradenství a související služby"},
+  {"11401": "Pojišťovací služby"},
+  {"11402": "Účetní, revizní a peněžní služby"},
+
+  {"10000": "IT"},
+  {"10008": "Internetové služby, servery, cloud"},
+  {"10009": "IT Bezpečnost"},
+  {"10001": "IT Hardware"},
+  {"10002": "IT Software (krabicový SW, licence, …)"},
+  {"10005": "IT Vývoj (na zakázku, včetně možné následné podpory)"},
+  {"10006": "Konzultace a poradenství"},
+  {"10004": "Opravy, údržba a počítačové sítě"},
+
+  {"11900": "Jiné služby"},
+  {"11903": "Administrativní služby, stravenky"},
+  {"11906": "Opravy a údržba"},
+  {"11901": "Pohostinství a ubytovací služby a maloobchodní služby"},
+  {"11905": "Průzkum veřejného mínění a statistiky"},
+  {"11907": "Překladatelské a tlumočnické služby"},
+  {"11902": "Služby závodních jídelen"},
+  {"11904": "Zajišťování služeb pro veřejnost"},
+
+  {"11100": "Kancelář"},
+  {"11105": "Čisticí výrobky"},
+  {"11104": "Kancelářské a domácí spotřebiče (klimatizace, myčka, lednička, sporák, …)"},
+  {"11102": "Kancelářské potřeby (tiskárny, skenery, papírnické potřeby)"},
+  {"11107": "Mobily, smart zařízení"},
+  {"11106": "Nábor zaměstnanců"},
+  {"11103": "Nábytek"},
+  {"11101": "Tisk"},
+
+  {"0": "Ostatní"},
+
+  {"11500": "Právní a realitní služby"},
+  {"11503": "Nájemní smlouvy"},
+  {"11502": "Právní služby"},
+  {"11504": "Pronájem pozemků"},
+  {"11501": "Realitní služby"},
+
+  {"10800": "Přírodní zdroje"},
+  {"10801": "Chemické výrobky"},
+  {"10802": "Písky a jíly"},
+
+  {"11200": "Řemesla"},
+  {"11203": "Hudební nástroje"},
+  {"11201": "Oděvy"},
+  {"11204": "Sport a sportoviště"},
+  {"11202": "Textilie"},
+
+  {"11300": "Sociální služby"},
+  {"11306": "Knihovny, archivy, muzea a jiné"},
+  {"11305": "Rekreační, kulturní akce"},
+  {"11304": "Sociální péče"},
+  {"11301": "Vzdělávání a školení"},
+  {"11303": "Zdravotní péče"},
+
+  {"10100": "Stavebnictví"},
+  {"10104": "Konstrukční a stavební práce"},
+  {"10111": "Práce při dokončování budov"},
+  {"10106": "Stavební práce pro potrubní, telekomunikační a elektrické vedení"},
+  {"10114": "Stavební služby (Architektonické, technické, inspekční, projektové, …)"},
+  {"10108": "Stavební úpravy pro železnici"},
+  {"10109": "Výstavba vodních děl"},
+  {"10107": "Výstavba, zakládání a povrchové práce pro silnice"},
+
+  {"10300": "Stroje a zařízení"},
+  {"10301": "Elektricke stroje"},
+  {"10302": "Laboratorní přístroje a zařízení"},
+  {"10303": "Průmyslové stroje"},
+
+  {"11800": "Reklamní a marketingové služby"},
+
+  {"11600": "Technické služby"},
+  {"11602": "Čistící a hygienické služby"},
+  {"11601": "Odpady"},
+  {"11603": "Úklidové služby"},
+
+  {"10400": "Telco"},
+  {"10402": "Sítě a přenos dat"},
+  {"10403": "Telekomunikační služby"},
+
+  {"11700": "Věda, výzkum a vývoj"},
+
+  {"10600": "Voda a potraviny"},
+  {"10602": "Pitná voda, nápoje, tabák atd."},
+  {"10601": "Potraviny"},
+
+  {"10500": "Zdravotnictví"},
+  {"10503": "Kosmetika"},
+  {"10502": "Leciva"},
+  {"10504": "Opravy a údržba zdravotnických přístrojů"},
+  {"10501": "Zdravotnické přístroje"},
+  {"10506": "Zdravotnický hygienický materiál"},
+  {"10505": "Zdravotnický materiál"},
+
+  {"11000": "Zemědělství"},
+  {"11001": "Lesnictví a těžba dřeva"},
+  {"11003": "Zahradnické služby"}]}
+
+
+
+
+
+
+
+
+
+
+
